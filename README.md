@@ -5,7 +5,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/Platform-Raspberry%20Pi%205-red?style=for-the-badge&logo=raspberrypi)
 ![Python](https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python)
 ![Sensors](https://img.shields.io/badge/Focus-Sensors%20%26%20Data-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 🚀 *IoT-Based Aquaculture Monitoring for Sustainable Fish Farming*
 
