@@ -125,17 +125,6 @@ Alerts (LED / Buzzer)
 
 ---
 
-## 📂 Project Structure
-
-Neernaya/
-│── 📁 hardware/ # Circuit diagrams & connections
-│── 📁 software/ # Python scripts
-│── 📁 docs/ # Documentation
-│── 📁 images/ # Project visuals (optional)
-│── README.md
-
----
-
 ## 🚀 Getting Started
 
 ### 🔌 Hardware Setup
